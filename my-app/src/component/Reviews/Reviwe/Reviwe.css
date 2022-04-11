@@ -1,0 +1,35 @@
+.reviwArea{
+   display: grid;
+   grid-template-columns: auto auto;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.reviwArea.img{
+    width: 100px;
+    height: 100px;
+   
+} 
+.img-box{
+    width: 60%;
+   
+    
+    
+}
+.img-box img{
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+}
+.content-box{
+    width: 80%;
+    top:5px;
+}
+.reviwArea{
+    display: grid;
+    grid-template-columns: auto auto;
+     margin-top: 10px;
+     align-items: center;
+     justify-content: center;
+} 
